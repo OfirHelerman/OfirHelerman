@@ -2,7 +2,7 @@
 - 🎓 I'm a hard-working 3rd year Computer Science student @ Bar Ilan University 
 - 🖥️ I'm passionate about software development and computer science
 - 📫 You can reach me through my email: ofirhelerman0@gmail.com'
-- 🤝 You can also reach me through <a href="https://www.linkedin.com/in/ofir-helerman-79261a1b3/" target="_blank" width="10px" height="5px">![LinkedIn](https://raw.githubusercontent.com/OfirHelerman/OfirHelerman/main/LI-Logo.png</a> 
+- 🤝 You can also reach me through <a href="https://www.linkedin.com/in/ofir-helerman-79261a1b3/" target="_blank" width="10px" height="5px">![LinkedIn](https://raw.githubusercontent.com/OfirHelerman/OfirHelerman/main/linkedin_github.svg</a> 
 
 
 
