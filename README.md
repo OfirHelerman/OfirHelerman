@@ -1,7 +1,8 @@
 ### Hi there, I'm Ofir 👋
-- 🎓 I'm a hard-working 3rd year Computer Science student @ Bar Ilan University 
-- 🖥️ I'm passionate about software development and computer science
-- 📫 You can reach me through my email: ofirhelerman9@gmail.com
+- ⌨️ I’m a software engineer with a passion for crafting clean, creative, and production-ready code.
+- 🖥️ I love exploring software development and diving deep into computer science concepts.
+- 🎓 I’m an undergraduate Computer Science student at Bar-Ilan University.
+- 📫 Feel free to reach me at: **ofirhelerman9@gmail.com**
 
 - 🤝 You can also reach me through <a href="https://www.linkedin.com/in/ofir-helerman-79261a1b3/" target="_blank">![LinkedIn](https://raw.githubusercontent.com/OfirHelerman/OfirHelerman/main/linkedin_github.svg)</a>
 
